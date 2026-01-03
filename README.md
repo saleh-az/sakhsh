@@ -1,0 +1,2 @@
+# sakhsh
+bot diszord
